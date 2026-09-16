@@ -28,6 +28,13 @@ The dataset contains 103 patient observations and includes variables such as:
 - Waiting time
 - Antigen mismatch
 
+
+library(survival)
+data(heart, package="survival")
+data
+
+
+
 Statistical Methods
 
 The following methods were used:
